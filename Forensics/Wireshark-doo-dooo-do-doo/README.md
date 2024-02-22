@@ -7,6 +7,7 @@ strings shark1.pcapng | grep "{"
 ```
 
 It will give rot 13 flag.
+
 ---
 <img width="1440" alt="Screenshot 2024-02-22 at 12 43 30 PM" src="https://github.com/Lynk4/PicoCTF/assets/44930131/94b6fbf9-8cf0-41f4-89c0-7784f9832753">
 
