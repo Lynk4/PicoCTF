@@ -88,7 +88,7 @@ flag_enc = open('flag.txt.enc', 'rb').read()
 
 decryption = str_xor(flag_enc.decode(), "utilitarian")
 print(decryption)
-
+```
 ---
 
 now run it.............
