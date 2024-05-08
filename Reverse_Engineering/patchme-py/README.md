@@ -52,7 +52,8 @@ or we can remove the check function:
 modified patchme.flag.py
 
 ---
-```
+
+```python3
 
 ### THIS FUNCTION WILL NOT HELP YOU FIND THE FLAG --LT ########################
 def str_xor(secret, key):
@@ -88,6 +89,7 @@ flag_enc = open('flag.txt.enc', 'rb').read()
 
 decryption = str_xor(flag_enc.decode(), "utilitarian")
 print(decryption)
+
 ```
 ---
 
