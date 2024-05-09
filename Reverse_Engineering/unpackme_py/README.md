@@ -71,7 +71,7 @@ else:
 
 ---
 
-Make sure you have installed python cryptography package:
+Make sure you have python cryptography package installed :
 if not install. It is required by the program.
 
 ```bash
