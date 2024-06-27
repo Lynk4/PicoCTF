@@ -10,7 +10,7 @@ binary
 ---
 
 
-The provided binary id upx packed........
+The provided binary is upx packed........
 
 We need to unpack it using upx
 
