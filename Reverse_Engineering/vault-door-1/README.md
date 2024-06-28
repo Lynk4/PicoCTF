@@ -148,7 +148,7 @@ d35cr4mbl3_tH3_cH4r4cT3r5_75092e
 ```
 ---
 
-flag:```picoCTF{d35cr4mbl3_tH3_cH4r4cT3r5_75092e}
+flag:```picoCTF{d35cr4mbl3_tH3_cH4r4cT3r5_75092e}```
 
 ---
 
