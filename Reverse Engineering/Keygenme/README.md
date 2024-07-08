@@ -635,5 +635,8 @@ That key is valid.
 ---
 
 
+flag:```picoCTF{br1ng_y0ur_0wn_k3y_abb48a6c}```
+
+---
 
 
