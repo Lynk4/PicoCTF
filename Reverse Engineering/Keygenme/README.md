@@ -613,3 +613,27 @@ abb48a6c}
 ```
 ---
 
+
+So we can see partial flag.........
+
+in radare 2
+
+we need last 8 char........
+
+The value at rbp-0x15 resgister contains last 8 characters of the flag.........
+
+```bash
+❯ ./keygenme
+Enter your license key: picoCTF{br1ng_y0ur_0wn_k3y_abb48a6c}
+That key is valid.
+╭─ ~/picoctf/keygenme
+╰─❯
+```
+---
+<img width="1440" alt="flag" src="https://github.com/Lynk4/PicoCTF/assets/44930131/b02bf12a-bd02-430b-9747-e68e66f8a878">
+
+---
+
+
+
+
