@@ -63,7 +63,7 @@ let's chek out whats the difference between these two...
 ```
 ---
 
-So the huge difference lies in  "610380 124 T    104 D" thus line 
+So the huge difference lies in  "610380 124 T    104 D" this line 
 
 but 610380 is not an actual address...
 
