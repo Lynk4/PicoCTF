@@ -24,6 +24,15 @@ Full RELRO      Canary found      NX enabled    PIE enabled     No RPATH   No RU
 ```
 ---
 
+running the program...
+
+```bash
+❯ ./asciiftw
+The flag starts with 70
+```
+---
+
+
 let's objdump .........
 
 ```bash
