@@ -1,5 +1,9 @@
 ## Hashcrack :   https://play.picoctf.org/practice/challenge/475?category=2&originalEvent=74&page=1
 
+Use Crack station to crack the hashes.........
+
+https://crackstation.net/
+
 ---
 ```bash
 Lynk4-picoctf@webshell:~$ nc verbal-sleep.picoctf.net 61522
